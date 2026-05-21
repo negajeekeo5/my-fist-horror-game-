@@ -1,0 +1,6 @@
+{
+  "name": "Was It Real",
+  "description": "A 3D X 2D first-person psychological horror adventure based on Nossair Zaidi's surreal novel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
